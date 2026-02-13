@@ -1,0 +1,4 @@
+#Fri Feb 13 14:59:10 JST 2026
+base.0=/Users/t-takeda/hamon-kanri-Android/hamon-sdk-android-dev/CRPBleSdkSample/sample/build/intermediates/dex/debug/minifyDebugWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

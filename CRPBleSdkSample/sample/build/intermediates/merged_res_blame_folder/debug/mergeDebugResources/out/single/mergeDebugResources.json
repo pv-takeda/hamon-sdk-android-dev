@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.crrepa.sdk.sample-debug-25:/mipmap-xhdpi_cat.bmp.flat",
+        "source": "com.crrepa.sdk.sample-main-27:/mipmap-xhdpi/cat.bmp"
+    },
+    {
+        "merged": "com.crrepa.sdk.sample-debug-25:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.crrepa.sdk.sample-main-27:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.crrepa.sdk.sample-debug-25:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.crrepa.sdk.sample-main-27:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.crrepa.sdk.sample-debug-25:/drawable-hdpi_color_wheel.png.flat",
+        "source": "com.crrepa.sdk.sample-main-27:/drawable-hdpi/color_wheel.png"
+    },
+    {
+        "merged": "com.crrepa.sdk.sample-debug-25:/drawable-hdpi_abbreviated.png.flat",
+        "source": "com.crrepa.sdk.sample-main-27:/drawable-hdpi/abbreviated.png"
+    },
+    {
+        "merged": "com.crrepa.sdk.sample-debug-25:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.crrepa.sdk.sample-main-27:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.crrepa.sdk.sample-debug-25:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.crrepa.sdk.sample-main-27:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.crrepa.sdk.sample-debug-25:/layout_activity_scan.xml.flat",
+        "source": "com.crrepa.sdk.sample-main-27:/layout/activity_scan.xml"
+    },
+    {
+        "merged": "com.crrepa.sdk.sample-debug-25:/layout_activity_device.xml.flat",
+        "source": "com.crrepa.sdk.sample-main-27:/layout/activity_device.xml"
+    },
+    {
+        "merged": "com.crrepa.sdk.sample-debug-25:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.crrepa.sdk.sample-main-27:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
