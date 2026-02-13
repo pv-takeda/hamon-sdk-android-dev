@@ -5,7 +5,7 @@ android {
 
     defaultConfig {
         applicationId "com.crrepa.sdk.sample"
-        minSdkVersion 19
+        minSdkVersion 21
         targetSdkVersion 33
         versionCode 3
         versionName "1.0"
@@ -45,7 +45,7 @@ dependencies {
     implementation 'com.jakewharton:butterknife:10.2.3'
     annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.3'
 
-    implementation (files("libs/crpblelib-1.8.5-0911.aar"))
+    implementation (files("libs/crpblelib-2.0.4-0209.aar"))
 
     implementation 'com.liulishuo.filedownloader:library:1.7.7'
 }

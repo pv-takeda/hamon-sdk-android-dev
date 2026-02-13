@@ -45,6 +45,7 @@ import com.crrepa.ble.conn.bean.CRPJieliWatchFaceInfo;
 import com.crrepa.ble.conn.bean.CRPMessageInfo;
 import com.crrepa.ble.conn.bean.CRPMovementHeartRateInfo;
 import com.crrepa.ble.conn.bean.CRPNapSleepInfo;
+import com.crrepa.ble.conn.bean.CRPPerformanceInsightsInfo;
 import com.crrepa.ble.conn.bean.CRPPeriodTimeInfo;
 import com.crrepa.ble.conn.bean.CRPPhysiologcalPeriodInfo;
 import com.crrepa.ble.conn.bean.CRPQuickResponsesCountInfo;
@@ -1836,6 +1837,11 @@ public class DeviceActivity extends AppCompatActivity {
         @Override
         public void onRealtimeTrainingChange(CRPTrainingRealtimeInfo crpTrainingRealtimeInfo) {
 
+        }
+
+        @Override
+        public void onPerformanceInsightsChange(CRPPerformanceInsightsInfo info) {
+            Log.d(TAG, "onPerformanceInsightsChange: " + info);
         }
     };
 
