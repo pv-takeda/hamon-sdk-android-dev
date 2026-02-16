@@ -120,6 +120,7 @@
     <string name="send_today_weather">Send Today Weather</string>
     <string name="send_user_info">Send User Info</string>
     <string name="send_watch_face_layout">Send Watch Face Layout</string>
+    <string name="serial_number_label">Serial Number:</string>
     <string name="start_measure_blood_oxygen">Start Measure Blood Oxygen</string>
     <string name="start_measure_blood_pressure">Start Measure Blood Pressure</string>
     <string name="start_measure_breath_rate">Start Measure Breath Rate</string>

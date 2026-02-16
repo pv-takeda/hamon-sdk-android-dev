@@ -8693,7 +8693,6 @@ com.crrepa.ble.conn.bean.CRPDeviceInfo:
     public int getMcuPlatform()
 com.crrepa.ble.conn.bean.CRPDeviceSNInfo:
     public void <init>(java.lang.String,java.lang.String,java.lang.String)
-    public java.lang.String getSn()
     public int getType()
     public java.lang.String getUa()
     public java.lang.String getVersion()
@@ -12272,15 +12271,15 @@ com.crrepa.sdk.sample.R$mipmap
 com.crrepa.sdk.sample.R$string
 com.crrepa.sdk.sample.R$style
 com.crrepa.sdk.sample.R
-com.crrepa.sdk.sample.device.DeviceActivity$32:
+com.crrepa.sdk.sample.device.DeviceActivity$33:
     public void onWatchFaceChange(com.crrepa.ble.conn.bean.CRPWatchFaceStoreInfo$WatchFaceBean)
-com.crrepa.sdk.sample.device.DeviceActivity$36
-com.crrepa.sdk.sample.device.DeviceActivity$55:
+com.crrepa.sdk.sample.device.DeviceActivity$37
+com.crrepa.sdk.sample.device.DeviceActivity$56:
     public void onFirmwareDownloadComplete()
     public void onFirmwareDownloadStarting()
     public void onUpgradeAborted()
     public void onUpgradeProgressStarting(boolean)
-com.crrepa.sdk.sample.device.DeviceActivity$57
+com.crrepa.sdk.sample.device.DeviceActivity$58
 com.crrepa.sdk.sample.device.DeviceActivity:
     public static final java.lang.String DEVICE_ADDRESS
     public static final java.lang.String DEVICE_MCU_PLATFORM
@@ -20387,7 +20386,6 @@ com.crrepa.ble.conn.bean.CRPConnectKitMessage
 com.crrepa.ble.conn.bean.CRPCustomKeyInfo
 com.crrepa.ble.conn.bean.CRPDailyGoalsInfo
 com.crrepa.ble.conn.bean.CRPDeviceInfo
-com.crrepa.ble.conn.bean.CRPDeviceSNInfo
 com.crrepa.ble.conn.bean.CRPElectronicCardCountInfo
 com.crrepa.ble.conn.bean.CRPElectronicCardInfo
 com.crrepa.ble.conn.bean.CRPGalleryInfo
@@ -20477,7 +20475,6 @@ com.crrepa.ble.conn.callback.CRPDeviceInfoCallback
 com.crrepa.ble.conn.callback.CRPDeviceMaxHeartRateCallback
 com.crrepa.ble.conn.callback.CRPDeviceNameCallback
 com.crrepa.ble.conn.callback.CRPDeviceOtherMessageCallback
-com.crrepa.ble.conn.callback.CRPDeviceSNCallback
 com.crrepa.ble.conn.callback.CRPDeviceSedentaryReminderPeriodCallback
 com.crrepa.ble.conn.callback.CRPDeviceTestModeCallback
 com.crrepa.ble.conn.callback.CRPDeviceTimingMeasureHeartRateCallback
@@ -20807,7 +20804,6 @@ com.crrepa.m.a:
     private com.crrepa.ble.conn.listener.CRPAiAgentListener o1
     private com.crrepa.ble.conn.listener.CRPHealthAnalysisListener p1
     private com.crrepa.ble.conn.callback.CRPTidalCallback q1
-    private com.crrepa.ble.conn.callback.CRPDeviceSNCallback r1
     private com.crrepa.ble.conn.listener.CRPCameraOperationListener s
     private com.crrepa.ble.conn.listener.CRPWeatherChangeListener t
     private com.crrepa.ble.conn.callback.CRPDeviceTimingMeasureHeartRateCallback t0
@@ -20858,11 +20854,11 @@ com.crrepa.s.c:
 com.crrepa.s0.a$a
 com.crrepa.s0.a:
     private com.crrepa.s0.a$a b
-com.crrepa.sdk.sample.device.DeviceActivity$26:
+com.crrepa.sdk.sample.device.DeviceActivity$27:
     public void onWatchFaceStoreChange(com.crrepa.ble.conn.bean.CRPWatchFaceStoreInfo)
-com.crrepa.sdk.sample.device.DeviceActivity$28:
+com.crrepa.sdk.sample.device.DeviceActivity$29:
     public void onWatchFaceStoreTagChange(java.util.List)
-com.crrepa.sdk.sample.device.DeviceActivity$30
+com.crrepa.sdk.sample.device.DeviceActivity$31
 com.crrepa.t1.a$a$$InternalSyntheticThrowCCEIfNotNull$6$5e559f4dcd89f06c3e9bb33791891fd410b16428027efa46e90f54030d9a9d01$0
 com.crrepa.t1.d:
     public final void a(boolean)

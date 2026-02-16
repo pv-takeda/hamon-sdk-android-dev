@@ -1345,6 +1345,7 @@ int id tv_heart_rate 0x7f08019e
 int id tv_light 0x7f08019f
 int id tv_new_firmware_version 0x7f0801a0
 int id tv_restful 0x7f0801a1
+int id tv_serial_number 0x7f0801b7
 int id tv_step 0x7f0801a2
 int id tv_upgrade_state 0x7f0801a3
 int id unchecked 0x7f0801a4
@@ -1584,6 +1585,7 @@ int string send_time_system 0x7f0d009f
 int string send_today_weather 0x7f0d00a0
 int string send_user_info 0x7f0d00a1
 int string send_watch_face_layout 0x7f0d00a2
+int string serial_number_label 0x7f0d00bd
 int string start_measure_blood_oxygen 0x7f0d00a3
 int string start_measure_blood_pressure 0x7f0d00a4
 int string start_measure_breath_rate 0x7f0d00a5

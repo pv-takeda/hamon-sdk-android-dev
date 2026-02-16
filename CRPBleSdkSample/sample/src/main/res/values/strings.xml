@@ -77,6 +77,7 @@
 
     <string name="send_device_version">Send Device Version</string>
     <string name="query_device_version">Query Device Version</string>
+    <string name="serial_number_label">Serial Number:</string>
     <string name="sync_past_step">Sync Past Step</string>
     <string name="sync_past_sleep">Sync Past Sleep</string>
     <string name="send_device_function">Send Display Function</string>

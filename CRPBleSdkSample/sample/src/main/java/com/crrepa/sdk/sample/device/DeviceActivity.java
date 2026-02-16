@@ -47,6 +47,7 @@ import com.crrepa.ble.conn.bean.CRPMovementHeartRateInfo;
 import com.crrepa.ble.conn.bean.CRPNapSleepInfo;
 import com.crrepa.ble.conn.bean.CRPPerformanceInsightsInfo;
 import com.crrepa.ble.conn.bean.CRPPeriodTimeInfo;
+import com.crrepa.ble.conn.bean.CRPDeviceSNInfo;
 import com.crrepa.ble.conn.bean.CRPPhysiologcalPeriodInfo;
 import com.crrepa.ble.conn.bean.CRPQuickResponsesCountInfo;
 import com.crrepa.ble.conn.bean.CRPQuickResponsesDetailInfo;
@@ -91,6 +92,7 @@ import com.crrepa.ble.conn.callback.CRPDeviceSupportWatchFaceCallback;
 import com.crrepa.ble.conn.callback.CRPDeviceTimeSystemCallback;
 import com.crrepa.ble.conn.callback.CRPDeviceVersionCallback;
 import com.crrepa.ble.conn.callback.CRPDeviceWatchFaceLayoutCallback;
+import com.crrepa.ble.conn.callback.CRPDeviceSNCallback;
 import com.crrepa.ble.conn.callback.CRPJieliWatchFaceCallback;
 import com.crrepa.ble.conn.callback.CRPMessageListCallback;
 import com.crrepa.ble.conn.callback.CRPWatchFaceDetailsCallback;
@@ -203,6 +205,8 @@ public class DeviceActivity extends AppCompatActivity {
     TextView tvBloodOxygen;
     @BindView(R.id.tv_new_firmware_version)
     TextView tvNewFirmwareVersion;
+    @BindView(R.id.tv_serial_number)
+    TextView tvSerialNumber;
 
     private String mFirmwareVersion;
 
@@ -210,6 +214,7 @@ public class DeviceActivity extends AppCompatActivity {
     private CRPWatchFaceLayoutInfo mWatchFaceLayoutInfo;
 
     private CRPScanRecordInfo.McuPlatform mcuPlatform;
+    private CRPDeviceSNCallback mDeviceSNCallback;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -302,6 +307,13 @@ public class DeviceActivity extends AppCompatActivity {
         mBleConnection.setTrainingListener(mTrainingChangeListener);
         mBleConnection.setStockListener(mStockChangeListener);
 
+        mDeviceSNCallback = new CRPDeviceSNCallback() {
+            @Override
+            public void onDeviceSN(CRPDeviceSNInfo info) {
+                Log.d(TAG, "onDeviceSN: " + info.getSn());
+                updateTextView(tvSerialNumber, info.getSn());
+            }
+        };
     }
 
     private void closeGatt() {

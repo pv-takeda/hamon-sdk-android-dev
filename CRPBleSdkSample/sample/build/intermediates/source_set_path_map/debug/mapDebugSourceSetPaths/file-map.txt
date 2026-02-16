@@ -6,11 +6,11 @@ com.crrepa.sdk.sample-jetified-lifecycle-process-2.4.1-4 /Users/t-takeda/.gradle
 com.crrepa.sdk.sample-jetified-startup-runtime-1.1.1-5 /Users/t-takeda/.gradle/caches/transforms-3/37442582dcd2537655ced8162d295e20/transformed/jetified-startup-runtime-1.1.1/res
 com.crrepa.sdk.sample-lifecycle-runtime-2.5.1-6 /Users/t-takeda/.gradle/caches/transforms-3/3a02f2733ede31a030b10544af635595/transformed/lifecycle-runtime-2.5.1/res
 com.crrepa.sdk.sample-jetified-customview-poolingcontainer-1.0.0-7 /Users/t-takeda/.gradle/caches/transforms-3/57153b617071008ec398a151245d297b/transformed/jetified-customview-poolingcontainer-1.0.0/res
-com.crrepa.sdk.sample-jetified-crpblelib-1.8.5-0911-8 /Users/t-takeda/.gradle/caches/transforms-3/59271c0b59ea661838f2501e3db67a68/transformed/jetified-crpblelib-1.8.5-0911/res
-com.crrepa.sdk.sample-jetified-lifecycle-viewmodel-savedstate-2.5.1-9 /Users/t-takeda/.gradle/caches/transforms-3/5fd3f62fc03cd8214543153964cec2c8/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/res
-com.crrepa.sdk.sample-jetified-core-ktx-1.9.0-10 /Users/t-takeda/.gradle/caches/transforms-3/7df80019aa7a6ef3c6fd6731c8bba871/transformed/jetified-core-ktx-1.9.0/res
-com.crrepa.sdk.sample-jetified-appcompat-resources-1.6.1-11 /Users/t-takeda/.gradle/caches/transforms-3/82c18dd48065828bf4e25847cc11ba44/transformed/jetified-appcompat-resources-1.6.1/res
-com.crrepa.sdk.sample-recyclerview-1.3.0-12 /Users/t-takeda/.gradle/caches/transforms-3/8c712660810765fa284fbb94d1a6adcc/transformed/recyclerview-1.3.0/res
+com.crrepa.sdk.sample-jetified-lifecycle-viewmodel-savedstate-2.5.1-8 /Users/t-takeda/.gradle/caches/transforms-3/5fd3f62fc03cd8214543153964cec2c8/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/res
+com.crrepa.sdk.sample-jetified-core-ktx-1.9.0-9 /Users/t-takeda/.gradle/caches/transforms-3/7df80019aa7a6ef3c6fd6731c8bba871/transformed/jetified-core-ktx-1.9.0/res
+com.crrepa.sdk.sample-jetified-appcompat-resources-1.6.1-10 /Users/t-takeda/.gradle/caches/transforms-3/82c18dd48065828bf4e25847cc11ba44/transformed/jetified-appcompat-resources-1.6.1/res
+com.crrepa.sdk.sample-recyclerview-1.3.0-11 /Users/t-takeda/.gradle/caches/transforms-3/8c712660810765fa284fbb94d1a6adcc/transformed/recyclerview-1.3.0/res
+com.crrepa.sdk.sample-jetified-crpblelib-2.0.4-0209-12 /Users/t-takeda/.gradle/caches/transforms-3/8cff2091d9abde567c3862ef5dab7c24/transformed/jetified-crpblelib-2.0.4-0209/res
 com.crrepa.sdk.sample-jetified-annotation-experimental-1.3.0-13 /Users/t-takeda/.gradle/caches/transforms-3/97c0b78dc1fd16c16d8e3a552467c647/transformed/jetified-annotation-experimental-1.3.0/res
 com.crrepa.sdk.sample-appcompat-1.6.1-14 /Users/t-takeda/.gradle/caches/transforms-3/b2ace7aa3b2900c59a4dcc4e3c3d0439/transformed/appcompat-1.6.1/res
 com.crrepa.sdk.sample-jetified-emoji2-1.2.0-15 /Users/t-takeda/.gradle/caches/transforms-3/c790609281d675887afbc48a191dfe39/transformed/jetified-emoji2-1.2.0/res

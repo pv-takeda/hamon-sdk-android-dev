@@ -1346,6 +1346,7 @@ id tv_heart_rate
 id tv_light
 id tv_new_firmware_version
 id tv_restful
+id tv_serial_number
 id tv_step
 id tv_upgrade_state
 id unchecked
@@ -1585,6 +1586,7 @@ string send_time_system
 string send_today_weather
 string send_user_info
 string send_watch_face_layout
+string serial_number_label
 string start_measure_blood_oxygen
 string start_measure_blood_pressure
 string start_measure_breath_rate
