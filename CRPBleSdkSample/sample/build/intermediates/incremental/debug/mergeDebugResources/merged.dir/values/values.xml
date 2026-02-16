@@ -762,6 +762,7 @@
     <string name="query_quick_responses_count">Query Quick Responses Count</string>
     <string name="query_quick_view">Query Quick View</string>
     <string name="query_sedentary_reminder">Query Sedentary Reminder</string>
+    <string name="query_serial_number">Query Serial Number</string>
     <string name="query_sleep_action">Query Sleep Action</string>
     <string name="query_support_stock">Query Support Stock</string>
     <string name="query_support_watch_face">Query support watch face</string>

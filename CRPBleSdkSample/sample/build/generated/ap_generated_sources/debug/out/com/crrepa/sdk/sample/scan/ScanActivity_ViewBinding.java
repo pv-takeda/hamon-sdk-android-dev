@@ -16,7 +16,7 @@ import java.lang.Override;
 public class ScanActivity_ViewBinding implements Unbinder {
   private ScanActivity target;
 
-  private View view7f0800a2;
+  private View view7f0800a3;
 
   @UiThread
   public ScanActivity_ViewBinding(ScanActivity target) {
@@ -30,7 +30,7 @@ public class ScanActivity_ViewBinding implements Unbinder {
     View view;
     view = Utils.findRequiredView(source, R.id.btn_scan_toggle, "field 'scanToggleBtn' and method 'onViewClicked'");
     target.scanToggleBtn = Utils.castView(view, R.id.btn_scan_toggle, "field 'scanToggleBtn'", Button.class);
-    view7f0800a2 = view;
+    view7f0800a3 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -50,7 +50,7 @@ public class ScanActivity_ViewBinding implements Unbinder {
     target.scanToggleBtn = null;
     target.scanResults = null;
 
-    view7f0800a2.setOnClickListener(null);
-    view7f0800a2 = null;
+    view7f0800a3.setOnClickListener(null);
+    view7f0800a3 = null;
   }
 }

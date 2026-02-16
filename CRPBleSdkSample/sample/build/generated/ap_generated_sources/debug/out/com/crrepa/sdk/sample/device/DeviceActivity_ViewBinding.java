@@ -18,147 +18,149 @@ public class DeviceActivity_ViewBinding implements Unbinder {
 
   private View view7f08005c;
 
+  private View view7f080091;
+
   private View view7f080080;
 
   private View view7f080073;
 
-  private View view7f0800cb;
+  private View view7f0800cc;
 
-  private View view7f0800b9;
+  private View view7f0800ba;
+
+  private View view7f0800cb;
 
   private View view7f0800ca;
 
-  private View view7f0800c9;
+  private View view7f0800ae;
 
-  private View view7f0800ad;
+  private View view7f0800b8;
 
-  private View view7f0800b7;
+  private View view7f0800b3;
 
-  private View view7f0800b2;
-
-  private View view7f0800ab;
+  private View view7f0800ac;
 
   private View view7f080081;
 
   private View view7f08006e;
 
-  private View view7f0800ac;
+  private View view7f0800ad;
 
-  private View view7f080094;
+  private View view7f080095;
 
   private View view7f080087;
 
   private View view7f08008e;
 
-  private View view7f0800a3;
+  private View view7f0800a4;
 
   private View view7f080072;
 
-  private View view7f0800b3;
+  private View view7f0800b4;
 
   private View view7f08008f;
 
-  private View view7f0800a7;
+  private View view7f0800a8;
 
   private View view7f08007c;
 
   private View view7f080070;
 
-  private View view7f0800ae;
+  private View view7f0800af;
 
   private View view7f080089;
 
-  private View view7f0800b4;
+  private View view7f0800b5;
 
   private View view7f080090;
 
-  private View view7f0800a9;
+  private View view7f0800aa;
 
   private View view7f08007f;
 
-  private View view7f0800bf;
+  private View view7f0800c0;
 
-  private View view7f0800c4;
+  private View view7f0800c5;
 
-  private View view7f0800a8;
+  private View view7f0800a9;
 
   private View view7f08007e;
 
-  private View view7f0800bc;
+  private View view7f0800bd;
 
-  private View view7f0800c1;
+  private View view7f0800c2;
+
+  private View view7f0800c9;
 
   private View view7f0800c8;
 
   private View view7f0800c7;
 
-  private View view7f0800c6;
-
   private View view7f08006f;
 
-  private View view7f0800b8;
+  private View view7f0800b9;
 
-  private View view7f0800aa;
+  private View view7f0800ab;
 
   private View view7f080071;
 
   private View view7f08005f;
 
-  private View view7f080097;
+  private View view7f080098;
 
-  private View view7f08009f;
+  private View view7f0800a0;
 
-  private View view7f0800bb;
+  private View view7f0800bc;
 
-  private View view7f0800c0;
+  private View view7f0800c1;
 
-  private View view7f0800a6;
+  private View view7f0800a7;
 
   private View view7f08007b;
 
   private View view7f080088;
 
-  private View view7f0800a5;
+  private View view7f0800a6;
 
   private View view7f080074;
 
-  private View view7f0800c5;
+  private View view7f0800c6;
 
-  private View view7f0800ba;
-
-  private View view7f08009b;
-
-  private View view7f08005d;
-
-  private View view7f0800be;
-
-  private View view7f0800c3;
-
-  private View view7f080086;
-
-  private View view7f080098;
-
-  private View view7f0800a0;
-
-  private View view7f080093;
+  private View view7f0800bb;
 
   private View view7f08009c;
 
+  private View view7f08005d;
+
+  private View view7f0800bf;
+
+  private View view7f0800c4;
+
+  private View view7f080086;
+
   private View view7f080099;
+
+  private View view7f0800a1;
+
+  private View view7f080094;
+
+  private View view7f08009d;
+
+  private View view7f08009a;
 
   private View view7f08007d;
 
-  private View view7f0800af;
+  private View view7f0800b0;
 
   private View view7f08008a;
 
-  private View view7f080091;
+  private View view7f080092;
 
-  private View view7f0800a4;
+  private View view7f0800a5;
 
   private View view7f08008b;
 
-  private View view7f0800b0;
+  private View view7f0800b1;
 
   private View view7f080060;
 
@@ -196,9 +198,9 @@ public class DeviceActivity_ViewBinding implements Unbinder {
 
   private View view7f080079;
 
-  private View view7f0800bd;
+  private View view7f0800be;
 
-  private View view7f0800c2;
+  private View view7f0800c3;
 
   private View view7f080082;
 
@@ -206,9 +208,9 @@ public class DeviceActivity_ViewBinding implements Unbinder {
 
   private View view7f080067;
 
-  private View view7f080095;
-
   private View view7f080096;
+
+  private View view7f080097;
 
   private View view7f08008d;
 
@@ -218,25 +220,25 @@ public class DeviceActivity_ViewBinding implements Unbinder {
 
   private View view7f08008c;
 
-  private View view7f0800b1;
+  private View view7f0800b2;
+
+  private View view7f08009f;
 
   private View view7f08009e;
 
-  private View view7f08009d;
+  private View view7f08009b;
 
-  private View view7f08009a;
-
-  private View view7f080092;
-
-  private View view7f0800b5;
+  private View view7f080093;
 
   private View view7f0800b6;
+
+  private View view7f0800b7;
 
   private View view7f080061;
 
   private View view7f08005e;
 
-  private View view7f0800a1;
+  private View view7f0800a2;
 
   @UiThread
   public DeviceActivity_ViewBinding(DeviceActivity target) {
@@ -271,6 +273,15 @@ public class DeviceActivity_ViewBinding implements Unbinder {
     target.tvBloodOxygen = Utils.findRequiredViewAsType(source, R.id.tv_blood_oxygen, "field 'tvBloodOxygen'", TextView.class);
     target.tvNewFirmwareVersion = Utils.findRequiredViewAsType(source, R.id.tv_new_firmware_version, "field 'tvNewFirmwareVersion'", TextView.class);
     target.tvSerialNumber = Utils.findRequiredViewAsType(source, R.id.tv_serial_number, "field 'tvSerialNumber'", TextView.class);
+    view = Utils.findRequiredView(source, R.id.btn_query_serial_number, "field 'btnQuerySerialNumber' and method 'onQuerySerialNumberClick'");
+    target.btnQuerySerialNumber = Utils.castView(view, R.id.btn_query_serial_number, "field 'btnQuerySerialNumber'", Button.class);
+    view7f080091 = view;
+    view.setOnClickListener(new DebouncingOnClickListener() {
+      @Override
+      public void doClick(View p0) {
+        target.onQuerySerialNumberClick();
+      }
+    });
     view = Utils.findRequiredView(source, R.id.btn_query_firmware, "method 'onViewClicked'");
     view7f080080 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
@@ -288,7 +299,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_sync_time, "method 'onViewClicked'");
-    view7f0800cb = view;
+    view7f0800cc = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -296,7 +307,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_user_info, "method 'onViewClicked'");
-    view7f0800b9 = view;
+    view7f0800ba = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -304,7 +315,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_sync_step, "method 'onViewClicked'");
-    view7f0800ca = view;
+    view7f0800cb = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -312,7 +323,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_sync_sleep, "method 'onViewClicked'");
-    view7f0800c9 = view;
+    view7f0800ca = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -320,7 +331,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_metric_system, "method 'onViewClicked'");
-    view7f0800ad = view;
+    view7f0800ae = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -328,7 +339,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_time_system, "method 'onViewClicked'");
-    view7f0800b7 = view;
+    view7f0800b8 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -336,7 +347,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_quick_view, "method 'onViewClicked'");
-    view7f0800b2 = view;
+    view7f0800b3 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -344,7 +355,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_goal_step, "method 'onViewClicked'");
-    view7f0800ab = view;
+    view7f0800ac = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -368,7 +379,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_message, "method 'onViewClicked'");
-    view7f0800ac = view;
+    view7f0800ad = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -376,7 +387,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_query_time_system, "method 'onViewClicked'");
-    view7f080094 = view;
+    view7f080095 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -400,7 +411,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_alarm_clock, "method 'onViewClicked'");
-    view7f0800a3 = view;
+    view7f0800a4 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -416,7 +427,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_quickview_time, "method 'onViewClicked'");
-    view7f0800b3 = view;
+    view7f0800b4 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -432,7 +443,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_device_language, "method 'onViewClicked'");
-    view7f0800a7 = view;
+    view7f0800a8 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -456,7 +467,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_other_message, "method 'onViewClicked'");
-    view7f0800ae = view;
+    view7f0800af = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -472,7 +483,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_sedentary_reminder, "method 'onViewClicked'");
-    view7f0800b4 = view;
+    view7f0800b5 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -488,7 +499,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_display_watch_face, "method 'onViewClicked'");
-    view7f0800a9 = view;
+    view7f0800aa = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -504,7 +515,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_start_measure_heart_rate, "method 'onViewClicked'");
-    view7f0800bf = view;
+    view7f0800c0 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -512,7 +523,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_stop_measure_heart_rate, "method 'onViewClicked'");
-    view7f0800c4 = view;
+    view7f0800c5 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -520,7 +531,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_device_version, "method 'onViewClicked'");
-    view7f0800a8 = view;
+    view7f0800a9 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -536,7 +547,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_start_measure_blood_pressure, "method 'onViewClicked'");
-    view7f0800bc = view;
+    view7f0800bd = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -544,7 +555,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_stop_measure_blood_pressure, "method 'onViewClicked'");
-    view7f0800c1 = view;
+    view7f0800c2 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -552,7 +563,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_sync_past_step, "method 'onViewClicked'");
-    view7f0800c8 = view;
+    view7f0800c9 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -560,7 +571,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_sync_past_sleep, "method 'onViewClicked'");
-    view7f0800c7 = view;
+    view7f0800c8 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -568,7 +579,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_sync_last_heart_rate, "method 'onViewClicked'");
-    view7f0800c6 = view;
+    view7f0800c7 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -584,7 +595,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_today_weather, "method 'onViewClicked'");
-    view7f0800b8 = view;
+    view7f0800b9 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -592,7 +603,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_future_weather, "method 'onViewClicked'");
-    view7f0800aa = view;
+    view7f0800ab = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -616,7 +627,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_query_today_hreat_rate, "method 'onViewClicked'");
-    view7f080097 = view;
+    view7f080098 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -624,7 +635,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_query_yesterday_hreat_rate, "method 'onViewClicked'");
-    view7f08009f = view;
+    view7f0800a0 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -632,7 +643,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_start_measure_blood_oxygen, "method 'onViewClicked'");
-    view7f0800bb = view;
+    view7f0800bc = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -640,7 +651,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_stop_measure_blood_oxygen, "method 'onViewClicked'");
-    view7f0800c0 = view;
+    view7f0800c1 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -648,7 +659,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_device_function, "method 'onViewClicked'");
-    view7f0800a6 = view;
+    view7f0800a7 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -672,7 +683,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_breathing_light, "method 'onViewClicked'");
-    view7f0800a5 = view;
+    view7f0800a6 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -688,7 +699,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_switch_background, "method 'onViewClicked'");
-    view7f0800c5 = view;
+    view7f0800c6 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -696,7 +707,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_watch_face_layout, "method 'onViewClicked'");
-    view7f0800ba = view;
+    view7f0800bb = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -704,7 +715,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_query_watch_face_layout, "method 'onViewClicked'");
-    view7f08009b = view;
+    view7f08009c = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -720,7 +731,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_start_measure_ecg, "method 'onViewClicked'");
-    view7f0800be = view;
+    view7f0800bf = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -728,7 +739,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_stop_measure_ecg, "method 'onViewClicked'");
-    view7f0800c3 = view;
+    view7f0800c4 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -744,7 +755,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_query_today_steps_category, "method 'onViewClicked'");
-    view7f080098 = view;
+    view7f080099 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -752,7 +763,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_query_yesterday_steps_category, "method 'onViewClicked'");
-    view7f0800a0 = view;
+    view7f0800a1 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -760,7 +771,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_query_support_watch_face, "method 'onViewClicked'");
-    view7f080093 = view;
+    view7f080094 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -768,7 +779,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_query_watch_face_store, "method 'onViewClicked'");
-    view7f08009c = view;
+    view7f08009d = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -776,7 +787,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_query_watch_face, "method 'onViewClicked'");
-    view7f080099 = view;
+    view7f08009a = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -792,7 +803,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_physiologcal_period, "method 'onViewClicked'");
-    view7f0800af = view;
+    view7f0800b0 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -808,7 +819,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_query_sleep_action, "method 'onViewClicked'");
-    view7f080091 = view;
+    view7f080092 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -816,7 +827,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_band_ui, "method 'onViewClicked'");
-    view7f0800a4 = view;
+    view7f0800a5 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -832,7 +843,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_quick_contacts, "method 'onViewClicked'");
-    view7f0800b0 = view;
+    view7f0800b1 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -984,7 +995,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_start_measure_breath_rate, "method 'onViewClicked'");
-    view7f0800bd = view;
+    view7f0800be = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -992,7 +1003,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_stop_measure_breath_rate, "method 'onViewClicked'");
-    view7f0800c2 = view;
+    view7f0800c3 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -1024,7 +1035,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_query_timing_breath_rate, "method 'onViewClicked'");
-    view7f080095 = view;
+    view7f080096 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -1032,7 +1043,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_query_timing_breath_rate_state, "method 'onViewClicked'");
-    view7f080096 = view;
+    view7f080097 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -1072,7 +1083,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_quick_responses, "method 'onViewClicked'");
-    view7f0800b1 = view;
+    view7f0800b2 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -1080,7 +1091,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_query_watch_face_store_tag, "method 'onViewClicked'");
-    view7f08009e = view;
+    view7f08009f = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -1088,7 +1099,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_query_watch_face_store_list, "method 'onViewClicked'");
-    view7f08009d = view;
+    view7f08009e = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -1096,7 +1107,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_query_watch_face_detail, "method 'onViewClicked'");
-    view7f08009a = view;
+    view7f08009b = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -1104,7 +1115,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_query_support_stock, "method 'onViewClicked'");
-    view7f080092 = view;
+    view7f080093 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -1112,7 +1123,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_stock, "method 'onViewClicked'");
-    view7f0800b5 = view;
+    view7f0800b6 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -1120,7 +1131,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_send_stock_price, "method 'onViewClicked'");
-    view7f0800b6 = view;
+    view7f0800b7 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -1144,7 +1155,7 @@ public class DeviceActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.btn_reset_stock_list, "method 'onViewClicked'");
-    view7f0800a1 = view;
+    view7f0800a2 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -1175,151 +1186,154 @@ public class DeviceActivity_ViewBinding implements Unbinder {
     target.tvBloodOxygen = null;
     target.tvNewFirmwareVersion = null;
     target.tvSerialNumber = null;
+    target.btnQuerySerialNumber = null;
 
     view7f08005c.setOnClickListener(null);
     view7f08005c = null;
+    view7f080091.setOnClickListener(null);
+    view7f080091 = null;
     view7f080080.setOnClickListener(null);
     view7f080080 = null;
     view7f080073.setOnClickListener(null);
     view7f080073 = null;
+    view7f0800cc.setOnClickListener(null);
+    view7f0800cc = null;
+    view7f0800ba.setOnClickListener(null);
+    view7f0800ba = null;
     view7f0800cb.setOnClickListener(null);
     view7f0800cb = null;
-    view7f0800b9.setOnClickListener(null);
-    view7f0800b9 = null;
     view7f0800ca.setOnClickListener(null);
     view7f0800ca = null;
-    view7f0800c9.setOnClickListener(null);
-    view7f0800c9 = null;
-    view7f0800ad.setOnClickListener(null);
-    view7f0800ad = null;
-    view7f0800b7.setOnClickListener(null);
-    view7f0800b7 = null;
-    view7f0800b2.setOnClickListener(null);
-    view7f0800b2 = null;
-    view7f0800ab.setOnClickListener(null);
-    view7f0800ab = null;
+    view7f0800ae.setOnClickListener(null);
+    view7f0800ae = null;
+    view7f0800b8.setOnClickListener(null);
+    view7f0800b8 = null;
+    view7f0800b3.setOnClickListener(null);
+    view7f0800b3 = null;
+    view7f0800ac.setOnClickListener(null);
+    view7f0800ac = null;
     view7f080081.setOnClickListener(null);
     view7f080081 = null;
     view7f08006e.setOnClickListener(null);
     view7f08006e = null;
-    view7f0800ac.setOnClickListener(null);
-    view7f0800ac = null;
-    view7f080094.setOnClickListener(null);
-    view7f080094 = null;
+    view7f0800ad.setOnClickListener(null);
+    view7f0800ad = null;
+    view7f080095.setOnClickListener(null);
+    view7f080095 = null;
     view7f080087.setOnClickListener(null);
     view7f080087 = null;
     view7f08008e.setOnClickListener(null);
     view7f08008e = null;
-    view7f0800a3.setOnClickListener(null);
-    view7f0800a3 = null;
+    view7f0800a4.setOnClickListener(null);
+    view7f0800a4 = null;
     view7f080072.setOnClickListener(null);
     view7f080072 = null;
-    view7f0800b3.setOnClickListener(null);
-    view7f0800b3 = null;
+    view7f0800b4.setOnClickListener(null);
+    view7f0800b4 = null;
     view7f08008f.setOnClickListener(null);
     view7f08008f = null;
-    view7f0800a7.setOnClickListener(null);
-    view7f0800a7 = null;
+    view7f0800a8.setOnClickListener(null);
+    view7f0800a8 = null;
     view7f08007c.setOnClickListener(null);
     view7f08007c = null;
     view7f080070.setOnClickListener(null);
     view7f080070 = null;
-    view7f0800ae.setOnClickListener(null);
-    view7f0800ae = null;
+    view7f0800af.setOnClickListener(null);
+    view7f0800af = null;
     view7f080089.setOnClickListener(null);
     view7f080089 = null;
-    view7f0800b4.setOnClickListener(null);
-    view7f0800b4 = null;
+    view7f0800b5.setOnClickListener(null);
+    view7f0800b5 = null;
     view7f080090.setOnClickListener(null);
     view7f080090 = null;
-    view7f0800a9.setOnClickListener(null);
-    view7f0800a9 = null;
+    view7f0800aa.setOnClickListener(null);
+    view7f0800aa = null;
     view7f08007f.setOnClickListener(null);
     view7f08007f = null;
-    view7f0800bf.setOnClickListener(null);
-    view7f0800bf = null;
-    view7f0800c4.setOnClickListener(null);
-    view7f0800c4 = null;
-    view7f0800a8.setOnClickListener(null);
-    view7f0800a8 = null;
+    view7f0800c0.setOnClickListener(null);
+    view7f0800c0 = null;
+    view7f0800c5.setOnClickListener(null);
+    view7f0800c5 = null;
+    view7f0800a9.setOnClickListener(null);
+    view7f0800a9 = null;
     view7f08007e.setOnClickListener(null);
     view7f08007e = null;
-    view7f0800bc.setOnClickListener(null);
-    view7f0800bc = null;
-    view7f0800c1.setOnClickListener(null);
-    view7f0800c1 = null;
+    view7f0800bd.setOnClickListener(null);
+    view7f0800bd = null;
+    view7f0800c2.setOnClickListener(null);
+    view7f0800c2 = null;
+    view7f0800c9.setOnClickListener(null);
+    view7f0800c9 = null;
     view7f0800c8.setOnClickListener(null);
     view7f0800c8 = null;
     view7f0800c7.setOnClickListener(null);
     view7f0800c7 = null;
-    view7f0800c6.setOnClickListener(null);
-    view7f0800c6 = null;
     view7f08006f.setOnClickListener(null);
     view7f08006f = null;
-    view7f0800b8.setOnClickListener(null);
-    view7f0800b8 = null;
-    view7f0800aa.setOnClickListener(null);
-    view7f0800aa = null;
+    view7f0800b9.setOnClickListener(null);
+    view7f0800b9 = null;
+    view7f0800ab.setOnClickListener(null);
+    view7f0800ab = null;
     view7f080071.setOnClickListener(null);
     view7f080071 = null;
     view7f08005f.setOnClickListener(null);
     view7f08005f = null;
-    view7f080097.setOnClickListener(null);
-    view7f080097 = null;
-    view7f08009f.setOnClickListener(null);
-    view7f08009f = null;
-    view7f0800bb.setOnClickListener(null);
-    view7f0800bb = null;
-    view7f0800c0.setOnClickListener(null);
-    view7f0800c0 = null;
-    view7f0800a6.setOnClickListener(null);
-    view7f0800a6 = null;
-    view7f08007b.setOnClickListener(null);
-    view7f08007b = null;
-    view7f080088.setOnClickListener(null);
-    view7f080088 = null;
-    view7f0800a5.setOnClickListener(null);
-    view7f0800a5 = null;
-    view7f080074.setOnClickListener(null);
-    view7f080074 = null;
-    view7f0800c5.setOnClickListener(null);
-    view7f0800c5 = null;
-    view7f0800ba.setOnClickListener(null);
-    view7f0800ba = null;
-    view7f08009b.setOnClickListener(null);
-    view7f08009b = null;
-    view7f08005d.setOnClickListener(null);
-    view7f08005d = null;
-    view7f0800be.setOnClickListener(null);
-    view7f0800be = null;
-    view7f0800c3.setOnClickListener(null);
-    view7f0800c3 = null;
-    view7f080086.setOnClickListener(null);
-    view7f080086 = null;
     view7f080098.setOnClickListener(null);
     view7f080098 = null;
     view7f0800a0.setOnClickListener(null);
     view7f0800a0 = null;
-    view7f080093.setOnClickListener(null);
-    view7f080093 = null;
+    view7f0800bc.setOnClickListener(null);
+    view7f0800bc = null;
+    view7f0800c1.setOnClickListener(null);
+    view7f0800c1 = null;
+    view7f0800a7.setOnClickListener(null);
+    view7f0800a7 = null;
+    view7f08007b.setOnClickListener(null);
+    view7f08007b = null;
+    view7f080088.setOnClickListener(null);
+    view7f080088 = null;
+    view7f0800a6.setOnClickListener(null);
+    view7f0800a6 = null;
+    view7f080074.setOnClickListener(null);
+    view7f080074 = null;
+    view7f0800c6.setOnClickListener(null);
+    view7f0800c6 = null;
+    view7f0800bb.setOnClickListener(null);
+    view7f0800bb = null;
     view7f08009c.setOnClickListener(null);
     view7f08009c = null;
+    view7f08005d.setOnClickListener(null);
+    view7f08005d = null;
+    view7f0800bf.setOnClickListener(null);
+    view7f0800bf = null;
+    view7f0800c4.setOnClickListener(null);
+    view7f0800c4 = null;
+    view7f080086.setOnClickListener(null);
+    view7f080086 = null;
     view7f080099.setOnClickListener(null);
     view7f080099 = null;
+    view7f0800a1.setOnClickListener(null);
+    view7f0800a1 = null;
+    view7f080094.setOnClickListener(null);
+    view7f080094 = null;
+    view7f08009d.setOnClickListener(null);
+    view7f08009d = null;
+    view7f08009a.setOnClickListener(null);
+    view7f08009a = null;
     view7f08007d.setOnClickListener(null);
     view7f08007d = null;
-    view7f0800af.setOnClickListener(null);
-    view7f0800af = null;
-    view7f08008a.setOnClickListener(null);
-    view7f08008a = null;
-    view7f080091.setOnClickListener(null);
-    view7f080091 = null;
-    view7f0800a4.setOnClickListener(null);
-    view7f0800a4 = null;
-    view7f08008b.setOnClickListener(null);
-    view7f08008b = null;
     view7f0800b0.setOnClickListener(null);
     view7f0800b0 = null;
+    view7f08008a.setOnClickListener(null);
+    view7f08008a = null;
+    view7f080092.setOnClickListener(null);
+    view7f080092 = null;
+    view7f0800a5.setOnClickListener(null);
+    view7f0800a5 = null;
+    view7f08008b.setOnClickListener(null);
+    view7f08008b = null;
+    view7f0800b1.setOnClickListener(null);
+    view7f0800b1 = null;
     view7f080060.setOnClickListener(null);
     view7f080060 = null;
     view7f08006b.setOnClickListener(null);
@@ -1356,20 +1370,20 @@ public class DeviceActivity_ViewBinding implements Unbinder {
     view7f08007a = null;
     view7f080079.setOnClickListener(null);
     view7f080079 = null;
-    view7f0800bd.setOnClickListener(null);
-    view7f0800bd = null;
-    view7f0800c2.setOnClickListener(null);
-    view7f0800c2 = null;
+    view7f0800be.setOnClickListener(null);
+    view7f0800be = null;
+    view7f0800c3.setOnClickListener(null);
+    view7f0800c3 = null;
     view7f080082.setOnClickListener(null);
     view7f080082 = null;
     view7f08006d.setOnClickListener(null);
     view7f08006d = null;
     view7f080067.setOnClickListener(null);
     view7f080067 = null;
-    view7f080095.setOnClickListener(null);
-    view7f080095 = null;
     view7f080096.setOnClickListener(null);
     view7f080096 = null;
+    view7f080097.setOnClickListener(null);
+    view7f080097 = null;
     view7f08008d.setOnClickListener(null);
     view7f08008d = null;
     view7f08006c.setOnClickListener(null);
@@ -1378,25 +1392,25 @@ public class DeviceActivity_ViewBinding implements Unbinder {
     view7f080066 = null;
     view7f08008c.setOnClickListener(null);
     view7f08008c = null;
-    view7f0800b1.setOnClickListener(null);
-    view7f0800b1 = null;
+    view7f0800b2.setOnClickListener(null);
+    view7f0800b2 = null;
+    view7f08009f.setOnClickListener(null);
+    view7f08009f = null;
     view7f08009e.setOnClickListener(null);
     view7f08009e = null;
-    view7f08009d.setOnClickListener(null);
-    view7f08009d = null;
-    view7f08009a.setOnClickListener(null);
-    view7f08009a = null;
-    view7f080092.setOnClickListener(null);
-    view7f080092 = null;
-    view7f0800b5.setOnClickListener(null);
-    view7f0800b5 = null;
+    view7f08009b.setOnClickListener(null);
+    view7f08009b = null;
+    view7f080093.setOnClickListener(null);
+    view7f080093 = null;
     view7f0800b6.setOnClickListener(null);
     view7f0800b6 = null;
+    view7f0800b7.setOnClickListener(null);
+    view7f0800b7 = null;
     view7f080061.setOnClickListener(null);
     view7f080061 = null;
     view7f08005e.setOnClickListener(null);
     view7f08005e = null;
-    view7f0800a1.setOnClickListener(null);
-    view7f0800a1 = null;
+    view7f0800a2.setOnClickListener(null);
+    view7f0800a2 = null;
   }
 }

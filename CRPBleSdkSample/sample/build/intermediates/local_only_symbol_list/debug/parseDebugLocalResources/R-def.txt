@@ -61,6 +61,7 @@ id btn_query_quick_responses_count
 id btn_query_quick_view
 id btn_query_quickview_time
 id btn_query_sedentary_reminder
+id btn_query_serial_number
 id btn_query_sleep_action
 id btn_query_support_stock
 id btn_query_support_watch_face
@@ -211,6 +212,7 @@ string query_quick_responses
 string query_quick_responses_count
 string query_quick_view
 string query_sedentary_reminder
+string query_serial_number
 string query_sleep_action
 string query_support_stock
 string query_support_watch_face

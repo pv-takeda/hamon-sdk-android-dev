@@ -6694,8 +6694,6 @@ androidx.lifecycle.ViewModelProvider$AndroidViewModelFactory:
     public static final androidx.lifecycle.ViewModelProvider$AndroidViewModelFactory getInstance(android.app.Application)
 androidx.lifecycle.ViewModelProvider$Factory$Companion:
     public final varargs androidx.lifecycle.ViewModelProvider$Factory from(androidx.lifecycle.viewmodel.ViewModelInitializer[])
-androidx.lifecycle.ViewModelProvider$Factory:
-    public static varargs androidx.lifecycle.ViewModelProvider$Factory from(androidx.lifecycle.viewmodel.ViewModelInitializer[])
 androidx.lifecycle.ViewModelProvider$NewInstanceFactory$Companion:
     public final androidx.lifecycle.ViewModelProvider$NewInstanceFactory getInstance()
     public static synthetic void getInstance$annotations()
@@ -7942,8 +7940,8 @@ butterknife.Setter:
     public abstract void set(android.view.View,java.lang.Object,int)
 butterknife.Unbinder$$InternalSyntheticLambda$1$6298c1d458fc7df62d041bfa54cef6d7d430173da3f7eab4c2ff232cbdec997e$0:
     public final void unbind()
+butterknife.Unbinder$-CC
 butterknife.Unbinder:
-    public static synthetic void $r8$lambda$2qeiUu2fH1rgHabdTosfp_kniyk()
     private static synthetic void lambda$static$0()
     public abstract void unbind()
 butterknife.ViewCollections:
@@ -8263,7 +8261,6 @@ com.crrepa.ble.conn.CRPBleConnection:
     public abstract void queryDailyGoals(com.crrepa.ble.conn.callback.CRPDailyGoalsCallback)
     public abstract void queryDeviceDfuStatus(com.crrepa.ble.conn.callback.CRPDeviceDfuStatusCallback)
     public abstract void queryDeviceInfo(com.crrepa.ble.conn.callback.CRPDeviceInfoCallback)
-    public abstract void queryDeviceSNInfo(com.crrepa.ble.conn.callback.CRPDeviceSNCallback)
     public abstract void queryDfuType(com.crrepa.ble.conn.callback.CRPDeviceDfuTypeCallback)
     public abstract void queryDisplayTime(com.crrepa.ble.conn.callback.CRPDeviceDisplayTimeCallback)
     public abstract void queryDistanceCategory(com.crrepa.ble.conn.type.CRPCategoryHistoryDay)
@@ -10874,7 +10871,23 @@ com.crrepa.f.x0:
     public static byte[] g()
 com.crrepa.f.x1:
     private void <init>()
-com.crrepa.f.x
+com.crrepa.f.x:
+    public static final byte a
+    public static final byte b
+    public static final byte c
+    public static final byte d
+    public static final byte e
+    public static final byte f
+    public static final byte g
+    public static final byte h
+    private void <init>()
+    public static byte[] a()
+    public static byte[] a(java.lang.String)
+    public static byte[] b()
+    public static byte[] c()
+    public static byte[] d()
+    public static byte[] e()
+    public static byte[] g()
 com.crrepa.f.y0
 com.crrepa.f.y1
 com.crrepa.f.y:
@@ -11076,7 +11089,6 @@ com.crrepa.h.a:
     public void queryDailyGoals(com.crrepa.ble.conn.callback.CRPDailyGoalsCallback)
     public void queryDeviceDfuStatus(com.crrepa.ble.conn.callback.CRPDeviceDfuStatusCallback)
     public void queryDeviceInfo(com.crrepa.ble.conn.callback.CRPDeviceInfoCallback)
-    public void queryDeviceSNInfo(com.crrepa.ble.conn.callback.CRPDeviceSNCallback)
     public void queryDfuType(com.crrepa.ble.conn.callback.CRPDeviceDfuTypeCallback)
     public void queryDisplayTime(com.crrepa.ble.conn.callback.CRPDeviceDisplayTimeCallback)
     public void queryDistanceCategory(com.crrepa.ble.conn.type.CRPCategoryHistoryDay)
@@ -11832,7 +11844,6 @@ com.crrepa.m.a:
     public void a(com.crrepa.ble.conn.callback.CRPDeviceMaxHeartRateCallback)
     public void a(com.crrepa.ble.conn.callback.CRPDeviceNameCallback)
     public void a(com.crrepa.ble.conn.callback.CRPDeviceOtherMessageCallback)
-    public void a(com.crrepa.ble.conn.callback.CRPDeviceSNCallback)
     public void a(com.crrepa.ble.conn.callback.CRPDeviceSedentaryReminderPeriodCallback)
     public void a(com.crrepa.ble.conn.callback.CRPDeviceTestModeCallback)
     public void a(com.crrepa.ble.conn.callback.CRPDeviceTimingMeasureHeartRateCallback)
@@ -19866,58 +19877,22 @@ org.jetbrains.annotations.NotNull
 org.jetbrains.annotations.Nullable
 org.jetbrains.annotations.PropertyKey
 org.jetbrains.annotations.TestOnly
-androidx.activity.ImmLeaksCleaner:
-    void <init>(android.app.Activity)
-androidx.appcompat.R$styleable:
-    public static final int TextAppearance_android_textColor
-    public static final int TextAppearance_android_textColorHint
-    public static final int TextAppearance_android_textColorLink
-androidx.appcompat.app.AlertController$2
-androidx.appcompat.app.AlertController$3
-androidx.appcompat.app.AlertController$4
-androidx.appcompat.app.AlertController$5
 androidx.appcompat.app.AlertController$AlertParams$OnPrepareListViewListener
 androidx.appcompat.app.AlertController$AlertParams:
     public androidx.appcompat.app.AlertController$AlertParams$OnPrepareListViewListener mOnPrepareListViewListener
-androidx.appcompat.app.AlertController:
-    static void manageScrollIndicators(android.view.View,android.view.View,android.view.View)
 androidx.appcompat.app.AppCompatDelegateImpl$4
 androidx.appcompat.app.AppCompatDelegateImpl$ActionBarMenuCallback
 androidx.appcompat.app.AppCompatDelegateImpl$AppCompatWindowCallback:
     private androidx.appcompat.app.AppCompatDelegateImpl$ActionBarMenuCallback mActionBarCallback
-androidx.appcompat.app.ResourcesFlusher:
-    private static void flushLollipops(android.content.res.Resources)
-    private static void flushMarshmallows(android.content.res.Resources)
 androidx.appcompat.app.ToolbarActionBar
 androidx.appcompat.app.WindowDecorActionBar:
     androidx.appcompat.widget.ScrollingTabContainerView mTabScrollView
-androidx.appcompat.graphics.drawable.AnimatedStateListDrawableCompat$1
-androidx.appcompat.graphics.drawable.AnimatedStateListDrawableCompat$AnimatableTransition
-androidx.appcompat.graphics.drawable.AnimatedStateListDrawableCompat$AnimatedStateListState
-androidx.appcompat.graphics.drawable.AnimatedStateListDrawableCompat$AnimatedVectorDrawableTransition
-androidx.appcompat.graphics.drawable.AnimatedStateListDrawableCompat$AnimationDrawableTransition
-androidx.appcompat.graphics.drawable.AnimatedStateListDrawableCompat$FrameInterpolator
-androidx.appcompat.graphics.drawable.AnimatedStateListDrawableCompat$Transition
-androidx.appcompat.graphics.drawable.AnimatedStateListDrawableCompat
-androidx.appcompat.graphics.drawable.DrawableContainerCompat$1
-androidx.appcompat.graphics.drawable.DrawableContainerCompat$Api21Impl
-androidx.appcompat.graphics.drawable.DrawableContainerCompat$BlockInvalidateCallback
-androidx.appcompat.graphics.drawable.DrawableContainerCompat$DrawableContainerState
-androidx.appcompat.graphics.drawable.DrawableContainerCompat
 androidx.appcompat.graphics.drawable.DrawableWrapperCompat:
     public android.graphics.drawable.Drawable getDrawable()
-androidx.appcompat.graphics.drawable.StateListDrawableCompat$StateListState
-androidx.appcompat.graphics.drawable.StateListDrawableCompat
-androidx.appcompat.resources.Compatibility$Api18Impl
-androidx.appcompat.resources.Compatibility$Api21Impl
-androidx.appcompat.resources.R$styleable
-androidx.appcompat.view.WindowCallbackWrapper:
-    public android.view.ActionMode onWindowStartingActionMode(android.view.ActionMode$Callback)
 androidx.appcompat.view.menu.MenuItemWrapperICS$ActionProviderWrapper:
     public android.view.View onCreateActionView()
 androidx.appcompat.view.menu.SubMenuWrapperICS
 androidx.appcompat.widget.AppCompatHintHelper$$InternalSyntheticThrowCCEIfNotNull$6$e5cb4f19bf4700309646fa3d98d8a4073d1de762c96f950e9154357300e1cee9$0
-androidx.appcompat.widget.AppCompatTextHelper$Api21Impl
 androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper:
     private static java.lang.Object accessAndReturnWithDefault(java.lang.Object,java.lang.String,java.lang.Object)
     private android.text.StaticLayout createStaticLayoutForMeasuringPre16(java.lang.CharSequence,android.text.Layout$Alignment,int)
@@ -19925,14 +19900,6 @@ androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper:
 androidx.appcompat.widget.ContentFrameLayout:
     public void dispatchFitSystemWindows(android.graphics.Rect)
 androidx.appcompat.widget.FitWindowsViewGroup
-androidx.appcompat.widget.ListPopupWindow:
-    private static java.lang.reflect.Method sGetMaxAvailableHeightMethod
-androidx.appcompat.widget.ResourceManagerInternal$AsldcInflateDelegate
-androidx.appcompat.widget.ResourceManagerInternal$AvdcInflateDelegate
-androidx.appcompat.widget.ResourceManagerInternal$DrawableDelegate
-androidx.appcompat.widget.ResourceManagerInternal$VdcInflateDelegate
-androidx.appcompat.widget.ResourceManagerInternal:
-    private void addDelegate(java.lang.String,androidx.appcompat.widget.ResourceManagerInternal$InflateDelegate)
 androidx.appcompat.widget.SearchView$OnCloseListener:
     public abstract boolean onClose()
 androidx.appcompat.widget.SearchView$OnQueryTextListener:
@@ -19955,29 +19922,8 @@ androidx.appcompat.widget.ViewStubCompat$OnInflateListener:
 androidx.appcompat.widget.ViewStubCompat:
     private androidx.appcompat.widget.ViewStubCompat$OnInflateListener mInflateListener
 androidx.appcompat.widget.WithHint
-androidx.collection.ArrayMap:
-    public void <init>(int)
-androidx.collection.LongSparseArray:
-    public void append(long,java.lang.Object)
 androidx.core.R$id:
     public static final int tag_transition_group
-androidx.core.R$styleable:
-    public static final int GradientColorItem_android_color
-    public static final int GradientColorItem_android_offset
-    public static final int GradientColor_android_centerColor
-    public static final int GradientColor_android_centerX
-    public static final int GradientColor_android_centerY
-    public static final int GradientColor_android_endColor
-    public static final int GradientColor_android_endX
-    public static final int GradientColor_android_endY
-    public static final int GradientColor_android_gradientRadius
-    public static final int GradientColor_android_startColor
-    public static final int GradientColor_android_startX
-    public static final int GradientColor_android_startY
-    public static final int GradientColor_android_tileMode
-    public static final int GradientColor_android_type
-androidx.core.app.ActivityCompat$1
-androidx.core.app.ActivityCompat$OnRequestPermissionsResultCallback
 androidx.core.app.ActivityCompat$PermissionCompatDelegate
 androidx.core.app.ActivityCompat:
     private static androidx.core.app.ActivityCompat$PermissionCompatDelegate sDelegate
@@ -19989,7 +19935,7 @@ androidx.core.app.NotificationCompat$Builder:
     androidx.core.app.NotificationCompat$BubbleMetadata mBubbleMetadata
     androidx.core.content.LocusIdCompat mLocusId
     androidx.core.app.NotificationCompat$Style mStyle
-androidx.core.app.NotificationCompatBuilder$$InternalSyntheticApiModelOutline$1$ebe8b214b9f6f601ff21c481d688ccb3209aeb8173488c82e6b800910fc60f80$9
+androidx.core.app.NotificationCompatBuilder$$InternalSyntheticApiModelOutline$1$ebe8b214b9f6f601ff21c481d688ccb3209aeb8173488c82e6b800910fc60f80$14
 androidx.core.app.NotificationCompatJellybean:
     private static java.lang.reflect.Field sExtrasField
     private static boolean sExtrasFieldAccessFailed
@@ -19999,18 +19945,7 @@ androidx.core.app.NotificationCompatJellybean:
 androidx.core.content.ContextCompat:
     private static android.util.TypedValue sTempValue
 androidx.core.content.LocusIdCompat
-androidx.core.content.res.ColorStateListInflaterCompat:
-    public static android.content.res.ColorStateList inflate(android.content.res.Resources,int,android.content.res.Resources$Theme)
-androidx.core.content.res.ComplexColorCompat
-androidx.core.content.res.GradientColorInflaterCompat$ColorStops
-androidx.core.content.res.GradientColorInflaterCompat
 androidx.core.content.res.ResourcesCompat$Api15Impl
-androidx.core.content.res.TypedArrayUtils
-androidx.core.graphics.PaintCompat:
-    private static androidx.core.util.Pair obtainEmptyRects()
-androidx.core.graphics.PathParser$ExtractFloatResult
-androidx.core.graphics.PathParser$PathDataNode
-androidx.core.graphics.PathParser
 androidx.core.graphics.TypefaceCompat:
     private static android.graphics.Typeface getBestFontFromFamily(android.content.Context,android.graphics.Typeface,int)
 androidx.core.graphics.TypefaceCompatApi29Impl:
@@ -20021,33 +19956,15 @@ androidx.core.graphics.TypefaceCompatBaseImpl:
     private androidx.core.content.res.FontResourcesParserCompat$FontFileResourceEntry findBestEntry(androidx.core.content.res.FontResourcesParserCompat$FontFamilyFilesResourceEntry,int)
     androidx.core.content.res.FontResourcesParserCompat$FontFamilyFilesResourceEntry getFontFamily(android.graphics.Typeface)
     private static long getUniqueKey(android.graphics.Typeface)
-androidx.core.graphics.drawable.DrawableCompat:
-    private static java.lang.reflect.Method sGetLayoutDirectionMethod
-    private static boolean sGetLayoutDirectionMethodFetched
-    private static java.lang.reflect.Method sSetLayoutDirectionMethod
-    private static boolean sSetLayoutDirectionMethodFetched
-    public static void applyTheme(android.graphics.drawable.Drawable,android.content.res.Resources$Theme)
-    public static boolean canApplyTheme(android.graphics.drawable.Drawable)
-    public static int getAlpha(android.graphics.drawable.Drawable)
-    public static android.graphics.ColorFilter getColorFilter(android.graphics.drawable.Drawable)
-    public static int getLayoutDirection(android.graphics.drawable.Drawable)
-    public static void inflate(android.graphics.drawable.Drawable,android.content.res.Resources,org.xmlpull.v1.XmlPullParser,android.util.AttributeSet,android.content.res.Resources$Theme)
-    public static void jumpToCurrentState(android.graphics.drawable.Drawable)
-androidx.core.graphics.drawable.TintAwareDrawable
-androidx.core.graphics.drawable.WrappedDrawableApi14
-androidx.core.graphics.drawable.WrappedDrawableApi21
-androidx.core.graphics.drawable.WrappedDrawableState
+androidx.core.graphics.drawable.TintAwareDrawable:
+    public abstract void setTint(int)
+    public abstract void setTintList(android.content.res.ColorStateList)
+    public abstract void setTintMode(android.graphics.PorterDuff$Mode)
 androidx.core.internal.view.SupportSubMenu
-androidx.core.os.LocaleListCompat:
-    static java.util.Locale forLanguageTagCompat(java.lang.String)
-androidx.core.os.LocaleListCompatWrapper
-androidx.core.text.ICUCompat$Api21Impl
 androidx.core.text.ICUCompat:
-    private static java.lang.reflect.Method sAddLikelySubtagsMethod
     private static java.lang.reflect.Method sGetScriptMethod
     private static java.lang.String addLikelySubtagsBelowApi21(java.util.Locale)
     private static java.lang.String getScriptBelowApi21(java.lang.String)
-androidx.core.util.Pair
 androidx.core.view.ActionProvider:
     public abstract android.view.View onCreateActionView()
 androidx.core.view.LayoutInflaterCompat:
@@ -20076,18 +19993,9 @@ androidx.core.view.accessibility.AccessibilityViewCommand$CommandArguments:
 androidx.core.view.accessibility.AccessibilityViewCommand:
     public abstract boolean perform(android.view.View,androidx.core.view.accessibility.AccessibilityViewCommand$CommandArguments)
 androidx.core.widget.CheckedTextViewCompat$Api14Impl
-androidx.core.widget.CompoundButtonCompat:
-    private static java.lang.reflect.Field sButtonDrawableField
-    private static boolean sButtonDrawableFieldFetched
-androidx.core.widget.PopupWindowCompat:
-    private static java.lang.reflect.Field sOverlapAnchorField
-    private static boolean sOverlapAnchorFieldAttempted
-    private static java.lang.reflect.Method sSetWindowLayoutTypeMethod
-    private static boolean sSetWindowLayoutTypeMethodAttempted
 androidx.core.widget.TextViewOnReceiveContentListener$ApiImpl
 androidx.core.widget.TintableCheckedTextView
 androidx.core.widget.TintableCompoundButton
-androidx.core.widget.TintableCompoundDrawablesView
 androidx.core.widget.TintableImageSourceView
 androidx.emoji2.text.FontRequestEmojiCompatConfig$FontProviderHelper:
     public void registerObserver(android.content.Context,android.net.Uri,android.database.ContentObserver)
@@ -20245,6 +20153,12 @@ androidx.interpolator.view.animation.FastOutLinearInInterpolator
 androidx.interpolator.view.animation.FastOutSlowInInterpolator
 androidx.interpolator.view.animation.LinearOutSlowInInterpolator
 androidx.interpolator.view.animation.LookupTableInterpolator
+androidx.lifecycle.DefaultLifecycleObserver:
+    public abstract void onCreate(androidx.lifecycle.LifecycleOwner)
+    public abstract void onDestroy(androidx.lifecycle.LifecycleOwner)
+    public abstract void onPause(androidx.lifecycle.LifecycleOwner)
+    public abstract void onStart(androidx.lifecycle.LifecycleOwner)
+    public abstract void onStop(androidx.lifecycle.LifecycleOwner)
 androidx.lifecycle.LifecycleRegistryOwner
 androidx.lifecycle.LiveData$ObserverWrapper:
     final androidx.lifecycle.Observer mObserver
@@ -20255,6 +20169,12 @@ androidx.lifecycle.SavedStateHandleController:
 androidx.lifecycle.SingleGeneratedAdapterObserver:
     private final androidx.lifecycle.GeneratedAdapter mGeneratedAdapter
 androidx.lifecycle.ViewModelProvider$$InternalSyntheticThrowCCEIfNotNull$6$d9ef27056c92cb35606c8162a27672e3c06bbd16f1ea6710f3881b0047422c20$0
+androidx.lifecycle.ViewModelProvider$Factory$Companion
+androidx.lifecycle.ViewModelProvider$Factory:
+    public static final androidx.lifecycle.ViewModelProvider$Factory$Companion Companion
+    static void <clinit>()
+androidx.lifecycle.ViewModelProvider$NewInstanceFactory:
+    public synthetic androidx.lifecycle.ViewModel create(java.lang.Class,androidx.lifecycle.viewmodel.CreationExtras)
 androidx.lifecycle.ViewModelProvider$OnRequeryFactory
 androidx.recyclerview.widget.RecyclerView$ChildDrawingOrderCallback:
     public abstract int onGetChildDrawingOrder(int,int)
@@ -20272,109 +20192,11 @@ androidx.recyclerview.widget.RecyclerView:
     private androidx.recyclerview.widget.RecyclerView$ChildDrawingOrderCallback mChildDrawingOrderCallback
     private androidx.recyclerview.widget.RecyclerView$OnFlingListener mOnFlingListener
     androidx.recyclerview.widget.RecyclerView$RecyclerListener mRecyclerListener
-androidx.vectordrawable.graphics.drawable.AndroidResources
-androidx.vectordrawable.graphics.drawable.AnimatedVectorDrawableCompat$1
-androidx.vectordrawable.graphics.drawable.AnimatedVectorDrawableCompat$AnimatedVectorDrawableCompatState
-androidx.vectordrawable.graphics.drawable.AnimatedVectorDrawableCompat$AnimatedVectorDrawableDelegateState
-androidx.vectordrawable.graphics.drawable.AnimatedVectorDrawableCompat
-androidx.vectordrawable.graphics.drawable.AnimationUtilsCompat
-androidx.vectordrawable.graphics.drawable.AnimatorInflaterCompat$PathDataEvaluator
-androidx.vectordrawable.graphics.drawable.AnimatorInflaterCompat
-androidx.vectordrawable.graphics.drawable.ArgbEvaluator
+androidx.vectordrawable.graphics.drawable.AnimatedVectorDrawableCompat:
+    private void setupColorAnimator(android.animation.Animator)
+androidx.vectordrawable.graphics.drawable.AnimationUtilsCompat:
+    private static android.view.animation.Interpolator createInterpolatorFromXml(android.content.Context,android.content.res.Resources,android.content.res.Resources$Theme,org.xmlpull.v1.XmlPullParser)
 androidx.vectordrawable.graphics.drawable.PathInterpolatorCompat
-androidx.vectordrawable.graphics.drawable.VectorDrawableCommon:
-    android.graphics.drawable.Drawable mDelegateDrawable
-    void <init>()
-    public void applyTheme(android.content.res.Resources$Theme)
-    public void clearColorFilter()
-    public android.graphics.drawable.Drawable getCurrent()
-    public int getMinimumHeight()
-    public int getMinimumWidth()
-    public boolean getPadding(android.graphics.Rect)
-    public int[] getState()
-    public android.graphics.Region getTransparentRegion()
-    public void jumpToCurrentState()
-    protected boolean onLevelChange(int)
-    public void setChangingConfigurations(int)
-    public void setColorFilter(int,android.graphics.PorterDuff$Mode)
-    public void setFilterBitmap(boolean)
-    public void setHotspot(float,float)
-    public void setHotspotBounds(int,int,int,int)
-    public boolean setState(int[])
-androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$1
-androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VClipPath
-androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VFullPath
-androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VGroup
-androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VObject
-androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPath
-androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VPathRenderer
-androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VectorDrawableCompatState
-androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VectorDrawableDelegateState
-androidx.vectordrawable.graphics.drawable.VectorDrawableCompat:
-    static final android.graphics.PorterDuff$Mode DEFAULT_TINT_MODE
-    private boolean mAllowCaching
-    private android.graphics.drawable.Drawable$ConstantState mCachedConstantStateDelegate
-    private android.graphics.ColorFilter mColorFilter
-    private boolean mMutated
-    private android.graphics.PorterDuffColorFilter mTintFilter
-    private final android.graphics.Rect mTmpBounds
-    private final float[] mTmpFloats
-    private final android.graphics.Matrix mTmpMatrix
-    private androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VectorDrawableCompatState mVectorState
-    static void <clinit>()
-    void <init>()
-    void <init>(androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$VectorDrawableCompatState)
-    static int applyAlpha(int,float)
-    public synthetic bridge void applyTheme(android.content.res.Resources$Theme)
-    public boolean canApplyTheme()
-    public synthetic bridge void clearColorFilter()
-    public static androidx.vectordrawable.graphics.drawable.VectorDrawableCompat create(android.content.res.Resources,int,android.content.res.Resources$Theme)
-    public static androidx.vectordrawable.graphics.drawable.VectorDrawableCompat createFromXmlInner(android.content.res.Resources,org.xmlpull.v1.XmlPullParser,android.util.AttributeSet,android.content.res.Resources$Theme)
-    public void draw(android.graphics.Canvas)
-    public int getAlpha()
-    public int getChangingConfigurations()
-    public android.graphics.ColorFilter getColorFilter()
-    public android.graphics.drawable.Drawable$ConstantState getConstantState()
-    public synthetic bridge android.graphics.drawable.Drawable getCurrent()
-    public int getIntrinsicHeight()
-    public int getIntrinsicWidth()
-    public synthetic bridge int getMinimumHeight()
-    public synthetic bridge int getMinimumWidth()
-    public int getOpacity()
-    public synthetic bridge boolean getPadding(android.graphics.Rect)
-    public synthetic bridge int[] getState()
-    java.lang.Object getTargetByName(java.lang.String)
-    public synthetic bridge android.graphics.Region getTransparentRegion()
-    public void inflate(android.content.res.Resources,org.xmlpull.v1.XmlPullParser,android.util.AttributeSet)
-    public void inflate(android.content.res.Resources,org.xmlpull.v1.XmlPullParser,android.util.AttributeSet,android.content.res.Resources$Theme)
-    private void inflateInternal(android.content.res.Resources,org.xmlpull.v1.XmlPullParser,android.util.AttributeSet,android.content.res.Resources$Theme)
-    public void invalidateSelf()
-    public boolean isAutoMirrored()
-    public boolean isStateful()
-    public synthetic bridge void jumpToCurrentState()
-    public android.graphics.drawable.Drawable mutate()
-    private boolean needMirroring()
-    protected void onBoundsChange(android.graphics.Rect)
-    protected boolean onStateChange(int[])
-    private static android.graphics.PorterDuff$Mode parseTintModeCompat(int,android.graphics.PorterDuff$Mode)
-    public void scheduleSelf(java.lang.Runnable,long)
-    void setAllowCaching(boolean)
-    public void setAlpha(int)
-    public void setAutoMirrored(boolean)
-    public synthetic bridge void setChangingConfigurations(int)
-    public synthetic bridge void setColorFilter(int,android.graphics.PorterDuff$Mode)
-    public void setColorFilter(android.graphics.ColorFilter)
-    public synthetic bridge void setFilterBitmap(boolean)
-    public synthetic bridge void setHotspot(float,float)
-    public synthetic bridge void setHotspotBounds(int,int,int,int)
-    public synthetic bridge boolean setState(int[])
-    public void setTint(int)
-    public void setTintList(android.content.res.ColorStateList)
-    public void setTintMode(android.graphics.PorterDuff$Mode)
-    public boolean setVisible(boolean,boolean)
-    public void unscheduleSelf(java.lang.Runnable)
-    private void updateStateFromTypedArray(android.content.res.TypedArray,org.xmlpull.v1.XmlPullParser,android.content.res.Resources$Theme)
-    android.graphics.PorterDuffColorFilter updateTintFilter(android.graphics.PorterDuffColorFilter,android.content.res.ColorStateList,android.graphics.PorterDuff$Mode)
 com.crrepa.ble.conn.CRPBleConnection:
     public abstract void queryWatchFaceStoreList(com.crrepa.ble.conn.bean.CRPWatchFaceStoreRequestInfo,int,com.crrepa.ble.conn.callback.CRPWatchFaceStoreCallback)
 com.crrepa.ble.conn.bean.CRPAiWatchFacePreviewInfo
@@ -20560,7 +20382,6 @@ com.crrepa.ble.log.BleLog:
     public static com.crrepa.z.a logger
 com.crrepa.ble.nrf.dfu.BaseDfuImpl:
     private boolean createBondApi18(android.bluetooth.BluetoothDevice)
-    private boolean isServiceChangedCCCDEnabled()
 com.crrepa.ble.nrf.dfu.internal.ArchiveInputStream:
     private com.crrepa.ble.nrf.dfu.internal.manifest.Manifest manifest
 com.crrepa.ble.nrf.dfu.internal.manifest.FileInfo

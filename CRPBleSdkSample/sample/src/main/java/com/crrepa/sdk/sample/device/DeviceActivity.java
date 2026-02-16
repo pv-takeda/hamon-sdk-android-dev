@@ -207,6 +207,8 @@ public class DeviceActivity extends AppCompatActivity {
     TextView tvNewFirmwareVersion;
     @BindView(R.id.tv_serial_number)
     TextView tvSerialNumber;
+    @BindView(R.id.btn_query_serial_number)
+    Button btnQuerySerialNumber;
 
     private String mFirmwareVersion;
 
@@ -241,6 +243,14 @@ public class DeviceActivity extends AppCompatActivity {
         if (mBleDevice != null && !mBleDevice.isConnected()) {
             connect();
         }
+    }
+
+    @OnClick(R.id.btn_query_serial_number)
+    public void onQuerySerialNumberClick() {
+        if (!mBleDevice.isConnected()) {
+            return;
+        }
+        mBleConnection.queryDeviceSNInfo(mDeviceSNCallback);
     }
 
     @Override
